@@ -130,14 +130,14 @@ inline 코드
 ![대체 텍스트(alternative text)를 입력하세요!](http://www.auntieannes.co.kr/wp-content/uploads/2020/03/product02_hover_1-min.png "링크 설명(title)을 작성하세요.")
 
 - ### 첨부 방식 1 - 변수 없이 한 줄로 완성
-![프레즐](prezle.png "신상품 고구마맛 스틱프레즐")
+![프레즐](photos/prezle.png "신상품 고구마맛 스틱프레즐")
 
 - ### 첨부 방식 2 - 변수 두개 활용
 ![프레즐][logo]
-[logo]:prezle.png "신상품 고구마맛 스틱프레즐"
+[logo]:photos/prezle.png "신상품 고구마맛 스틱프레즐"
 
 - ### 사진에 링크 넣기
-[![프레즐](heart.png "cinamon sugar pretzel")](http://auntieannes.co.kr/product-all/?cate=all)
+[![프레즐](photos/heart.png "cinamon sugar pretzel")](http://auntieannes.co.kr/product-all/?cate=all)
 
 
 
